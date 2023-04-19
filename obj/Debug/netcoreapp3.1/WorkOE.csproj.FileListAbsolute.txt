@@ -1,0 +1,5 @@
+C:\Git\WorkOE\src\service\obj\Debug\netcoreapp3.1\WorkOE.csproj.AssemblyReference.cache
+C:\Git\WorkOE\src\service\obj\Debug\netcoreapp3.1\WorkOE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\WorkOE\src\service\obj\Debug\netcoreapp3.1\WorkOE.AssemblyInfoInputs.cache
+C:\Git\WorkOE\src\service\obj\Debug\netcoreapp3.1\WorkOE.AssemblyInfo.cs
+C:\Git\WorkOE\src\service\obj\Debug\netcoreapp3.1\WorkOE.csproj.CoreCompileInputs.cache

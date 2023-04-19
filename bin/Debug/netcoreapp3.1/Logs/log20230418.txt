@@ -1,0 +1,28 @@
+2023-04-18 11:12:52.009 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Try to start Server in Version: 1.0.0.0
+2023-04-18 11:12:52.099 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Environment Name: [Development]
+2023-04-18 11:12:52.101 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Informing Listeners about OnStart()
+2023-04-18 11:13:14.047 | 1 | INFO | WorkerOE | WorkerOE.WorkerFilterCheck | inicio: "2023-04-18T11:13:14.0385830-03:00"
+2023-04-18 11:17:03.262 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Try to start Server in Version: 1.0.0.0
+2023-04-18 11:17:03.405 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Environment Name: [Development]
+2023-04-18 11:17:03.409 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Informing Listeners about OnStart()
+2023-04-18 11:19:13.212 | 1 | INFO | WorkerOE | WorkerOE.WorkerFilterCheck | inicio: "2023-04-18T11:19:13.2010823-03:00"
+2023-04-18 11:20:04.713 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Try to start Server in Version: 1.0.0.0
+2023-04-18 11:20:04.830 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Environment Name: [Development]
+2023-04-18 11:20:04.836 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Informing Listeners about OnStart()
+2023-04-18 11:20:13.633 | 1 | INFO | WorkerOE | WorkerOE.WorkerFilterCheck | inicio: "2023-04-18T11:20:13.6274593-03:00"
+2023-04-18 11:29:35.518 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Try to start Server in Version: 1.0.0.0
+2023-04-18 11:29:35.596 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Environment Name: [Development]
+2023-04-18 11:29:35.598 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Informing Listeners about OnStart()
+2023-04-18 11:29:38.866 | 1 | INFO | WorkerOE | WorkerOE.WorkerFilterCheck | inicio: "2023-04-18T11:29:38.8580180-03:00"
+2023-04-18 14:42:17.008 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Try to start Server in Version: 1.0.0.0
+2023-04-18 14:42:17.074 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Environment Name: [Development]
+2023-04-18 14:42:17.076 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Informing Listeners about OnStart()
+2023-04-18 14:42:19.328 | 1 | INFO | WorkerOE | WorkerOE.WorkerFilterCheck | inicio: "2023-04-18T14:42:19.3219068-03:00"
+2023-04-18 14:45:58.174 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Try to start Server in Version: 1.0.0.0
+2023-04-18 14:45:58.268 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Environment Name: [Development]
+2023-04-18 14:45:58.270 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Informing Listeners about OnStart()
+2023-04-18 14:46:00.090 | 1 | INFO | WorkerOE | WorkerOE.WorkerFilterCheck | inicio: "2023-04-18T14:46:00.0796152-03:00"
+2023-04-18 15:21:27.242 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Try to start Server in Version: 1.0.0.0
+2023-04-18 15:21:27.312 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Environment Name: [Development]
+2023-04-18 15:21:27.314 | 1 | INFO | WorkerOE | Infra.Full.Configuration.ServiceWrapper | Informing Listeners about OnStart()
+2023-04-18 15:21:29.153 | 1 | INFO | WorkerOE | WorkerOE.WorkerFilterCheck | inicio: "2023-04-18T15:21:29.1375789-03:00"
